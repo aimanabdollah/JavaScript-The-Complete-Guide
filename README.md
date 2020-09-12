@@ -1,2 +1,2 @@
 # JavaScript-The-Complete-Guide
-This repository consist my progress to learn javascript as beginner 
+This repository is about my progress to learn javascript as beginner 
